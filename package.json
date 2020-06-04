@@ -1,0 +1,24 @@
+{
+  "name": "learn-git",
+  "version": "1.0.0",
+  "description": "This is a test directory to learn Git",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "https://github.com/hanyikoh/Learn-Git.git",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanyikoh/Learn-Git.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanyikoh/Learn-Git/issues"
+  },
+  "homepage": "https://github.com/hanyikoh/Learn-Git#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
